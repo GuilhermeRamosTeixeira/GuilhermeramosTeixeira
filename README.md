@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Ramos Teixeira
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando JAVA
+- 🔭 Desenvolvedor WEB Full Stack Java junior 
+- 🌱 Estudando JAVA , spring Boot e Angular
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
